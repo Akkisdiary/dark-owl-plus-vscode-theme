@@ -1,0 +1,29 @@
+/* https://coolors.co/palette/264653-2a9d8f-e9c46a-f4a261-e76f51 */
+
+:root {
+  --light-100: #e4e9f2;
+  --light-200: #d6ddeb;
+  --light-300: #c8d2e4;
+  --light-400: #bbc7dd;
+  --light-500: #aebcd6;
+  --light-600: #a0b1cf;
+  --light-700: #92a6c8;
+  --light-800: #859bc1;
+  --light-900: #7790bb;
+  --light-1000: #6a85b4;
+  --blue-100: #0570c7;
+  --blue-200: #0565b3;
+  --blue-300: #04599f;
+  --blue-400: #044e8b;
+  --blue-500: #044377;
+  --blue-600: #043862;
+  --blue-700: #032d4e;
+  --blue-800: #02223b;
+  --blue-900: #011727;
+  --blue-1000: #01090e;
+  --blue-1100: #000508;
+
+  --border: #043862;
+  --grey: #637777;
+  --dark: #01111d;
+}
