@@ -4,6 +4,7 @@
   "description": "Theme inspired from 'Dark Owl' and VS Code's 'Dark+ (default dark)'",
   "version": "0.1.0",
   "publisher": "akkisdiary",
+  "icon": "owl-256.png",
   "license": "SEE LICENSE IN LICENSE.md",
   "repository": {
     "type": "git",
