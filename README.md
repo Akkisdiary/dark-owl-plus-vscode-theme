@@ -4,9 +4,8 @@ Theme inspired from [Dark Owl](https://github.com/sdras/night-owl-vscode-theme) 
 
 # Screens
 
+![screen vscode](./screen-code.png)
 
-### Python
-### React
 
 ---
 
