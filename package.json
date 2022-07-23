@@ -1,7 +1,7 @@
 {
   "name": "dark-owl-plus",
-  "displayName": "dark-owl-plus",
-  "description": "",
+  "displayName": "Dark Owl+",
+  "description": "Theme inspired from 'Dark Owl' and VS Code's 'Dark+ (default dark)'",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.69.0"
